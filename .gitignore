@@ -219,3 +219,5 @@ pip-log.txt
 ## Javascript
 ################
 JavaScript/node_modules
+angular2-quickstart/node_modules
+angular2-tour-of-heroes/node_modules
